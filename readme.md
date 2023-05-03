@@ -30,8 +30,8 @@ Shaquille B (
     * sticky navigation on all pages
     * navigation dropdown
     * Eventually create a sign up and sign in feature, also a {become a partner} feature to accept safe donations.
-    * Accept feedback and suggestions
-    * Report bugs
+    * Accept feedback and suggestions {Including Bug reports}
+    * Light and dark version designs
 
 )
 
