@@ -32,15 +32,18 @@ Shaquille B (
     * Eventually create a sign up and sign in feature, also a {become a partner} feature to accept safe donations.
     * Accept feedback and suggestions {Including Bug reports}
     * Light and dark version designs
+    * Ability to search main blog page: search will only search for [blogs] getting them by their title, theme, related topic etc.
+    * Able to search entire site by topic: Search will provide result from blogs, videos, past and upcoming events etc.
 
 )
 
-<!-- ***** -->
+ <!-- ***** -->
 
 <!-- Overall Layout & Design -->
 
 Shaquille B (
 
+    * Light and dark mode.
     * Color scheme to be determined. #Coolors.com
     * Modern look and feel. (Google Fonts | Font Awesome Icons)
     * Image content will be a mixture of real life pictures and drawn illustrations.
