@@ -1,14 +1,12 @@
 Bible Explosion Org - biblexplosiongroup.org
 
-INSTRUCTIONS:
+**INSTRUCTIONS:**
 
-Place every cluster of thought within brackets.
-At the beginning of each parenthesis put the name of the person who made the suggestion.
+\*_Place every cluster of thought within brackets._ \*_At the beginning of each parenthesis put the name of the person who made the suggestion._
 
-Eg.
-Shaquille B (The design of the mobile version needs to be different than the desktop.)
+\*_Eg._ \*_Shaquille B (The design of the mobile version needs to be different than the desktop.)_
 
-<!-- Purpose -->
+==== **Purpose** ====
 
 Shaquille B (
 
@@ -18,9 +16,9 @@ Shaquille B (
 
 )
 
-==== **Functionalities** ====
+==== **----------------** ====
 
-==== Functionalities ====
+==== **Functionalities** ====
 
 Shaquille B (
 
