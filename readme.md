@@ -18,9 +18,9 @@ Shaquille B (
 
 )
 
-<!-- ***** -->
+==== **\*** ====
 
-<span style="color: green;">==== Functionalities ====</span>
+==== Functionalities ====
 
 Shaquille B (
 
