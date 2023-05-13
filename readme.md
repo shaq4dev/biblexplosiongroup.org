@@ -94,6 +94,83 @@ Shaquille B - May 09, 2023 {
 
 }
 
+Shaquille B - May 12, 2023 {
+
+    * Light mode {
+
+        - Dominant 60%
+          Baby Powder: #FFFCF9
+
+        - Secondary 30%
+          True Blue: #3C69CC
+
+        - Font 8%
+          Raisin black: #352D39
+
+        - Accent 2%
+          bright pink: #FF69A8
+
+        - Form Placeholder
+          Forms: #CCC6C6
+
+        - footer bottom container
+        Forms: #2E2731
+
+        - footer bottom copyright text
+        Forms: #656067
+
+    }
+
+    * Dark mode {
+
+        - Dominant 60%
+          Raisin black: #352D39
+
+        - Secondary 30%
+          Grey: #534D56
+
+        - Font 8%
+          White: #ffffff
+
+        - Accent 2%
+          active purple: #5604DC
+
+    }
+
+
+    * Fonts {
+
+        @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Open+Sans:wght@300;400;500;600;700;800&family=Parisienne&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@300&family=Work+Sans:ital,wght@0,400;0,600;0,800;1,500&display=swap');
+
+        - Open Sans, Work Sans, Roboto, Poppins [Main site text]
+        - DM Serif Text [Special section titles]
+        - Parisienne [Special section quotes]
+
+    }
+
+    * font-awesome {
+
+        toggle expand - <i class="fa-solid fa-caret-right"></i>
+        toggle collapse - <i class="fa-solid fa-caret-left"></i>
+
+        Dashboard - <i class="fa-solid fa-house" style="color: #352d39;"></i>
+        Search - <i class="fa-solid fa-magnifying-glass"></i>
+        about - <i class="fa-regular fa-circle-question"></i>
+        Resources - <i class="fa-regular fa-gem"></i>
+            Slides - <i class="fa-brands fa-slideshare"></i>
+            Study material - <i class="fa-solid fa-graduation-cap"></i>
+            Rewatch - <i class="fa-solid fa-eye"></i>
+        Events - <i class="fa-regular fa-calendar-days"></i>
+        Blogs - <i class="fa-solid fa-feather"></i>
+        Contact us - <i class="fa-regular fa-envelope"></i>
+        Log in - <i class="fa-regular fa-user"></i>
+
+        Toggle moon - <i class="fa-regular fa-moon"></i>
+        Toggle sun - <i class="fa-regular fa-sun"></i>
+    }
+
+}
+
 ==== **xxx END xxx** ====
 
 ==== **Pages** ====
