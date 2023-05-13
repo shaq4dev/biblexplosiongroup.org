@@ -150,8 +150,8 @@ Shaquille B - May 12, 2023 {
 
     * font-awesome {
 
-        toggle expand - <i class="fa-solid fa-caret-right"></i>
-        toggle collapse - <i class="fa-solid fa-caret-left"></i>
+        toggle expand - <i class="fa-solid fa-arrow-right-long"></i>
+        toggle collapse - <i class="fa-solid fa-arrow-left-long"></i>
 
         Dashboard - <i class="fa-solid fa-house" style="color: #352d39;"></i>
         Search - <i class="fa-solid fa-magnifying-glass"></i>
